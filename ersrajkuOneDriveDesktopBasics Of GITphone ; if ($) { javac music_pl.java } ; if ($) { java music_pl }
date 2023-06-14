@@ -1,0 +1,48 @@
+[33mcommit becfe0cec373b359986aff97823cf2a87c092c85[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 1ef5b4b 8fa9e55
+Author: KumarGaurav2112 <www.kumargaurav2112@gmail.com>
+Date:   Tue Jun 13 18:04:38 2023 +0530
+
+    Merge branch 'music_player'
+
+[33mcommit 8fa9e55b0712259eb22258cc43aeb8e6753c93b7[m[33m ([m[1;32mmusic_player[m[33m)[m
+Author: KumarGaurav2112 <www.kumargaurav2112@gmail.com>
+Date:   Tue Jun 13 17:55:37 2023 +0530
+
+    add music player
+
+[33mcommit 8d860be62080783147274002011887707cd82cc1[m
+Author: KumarGaurav2112 <www.kumargaurav2112@gmail.com>
+Date:   Tue Jun 13 17:50:57 2023 +0530
+
+    add music player
+
+[33mcommit 1ef5b4b00ebee03a298c6a26592d3c85f6ab920c[m[33m ([m[1;32minternet[m[33m)[m
+Author: KumarGaurav2112 <www.kumargaurav2112@gmail.com>
+Date:   Tue Jun 13 17:46:22 2023 +0530
+
+    add internet
+
+[33mcommit 5071b98fe97dac41fd6a3ba9a67fab77ca94bfde[m
+Author: KumarGaurav2112 <www.kumargaurav2112@gmail.com>
+Date:   Tue Jun 13 17:29:06 2023 +0530
+
+    add music
+
+[33mcommit 622aac295eb90aa947ecb17588a5470ac78cf3aa[m
+Author: KumarGaurav2112 <www.kumargaurav2112@gmail.com>
+Date:   Tue Jun 13 17:27:54 2023 +0530
+
+    add internet
+
+[33mcommit a440c695e1eb367dfd27300cd94224e0d7265230[m
+Author: KumarGaurav2112 <www.kumargaurav2112@gmail.com>
+Date:   Tue Jun 13 17:25:08 2023 +0530
+
+    add touch screen and gurilla glass
+
+[33mcommit 9c1830f74fd74124b50dc55fd2532288161de7d7[m
+Author: KumarGaurav2112 <www.kumargaurav2112@gmail.com>
+Date:   Tue Jun 13 17:18:19 2023 +0530
+
+    add phone
